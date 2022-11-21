@@ -5,13 +5,12 @@ body {
   font-family: 'Merriweather', serif;
 }
 
-h1 {
+/* h1 {
   color: #66BFBF;
   font-size: 90/16%;
   margin-top: 0;
   font-family: 'Sacramento', cursive;
-}
-
+} */
 h2 {
   color: #66BFBF;
   font-family: "Montserrat", sans-serif;
@@ -22,10 +21,9 @@ h3 {
   font-family: "Montserrat", sans-serif;
 }
 
-p {
+/* p {
   line-height: 2;
-}
-
+} */
 hr {
   border: dotted;
   border-color: #EAF6F6;
@@ -42,6 +40,10 @@ a {
 
 a:hover {
   color: #EAF6F6;
+}
+
+i {
+  font-style: normal;
 }
 
 .skill-row {
@@ -75,4 +77,8 @@ a:hover {
   color: #EAF6F6;
   font-size: 0.75em;
   padding: 20px 0;
+}
+
+.work-experience {
+  font-size: 0.75em;
 }
